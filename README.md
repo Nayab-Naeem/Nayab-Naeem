@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**Nayab-Naeem/Nayab-Naeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Header -->
+<h1 align="center">👩‍💻 Hey, I'm Nayab</h1>
+<h3 align="center">A Passionate Computer Science Student | Aspiring Frontend Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Code Girl Gif"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 CS Student with a passion for **Web Development & Problem Solving**  
+- 💡 Love learning and exploring **new technologies**  
+- 🔥 Skilled in **C++** with **problem-solving skills**  
+- 🎨 Built **Modern frontend projects** using **HTML, CSS, JavaScript & Bootstrap**  
+- 🕒 Strong in **Time management & Communication skills**  
+- 🌱 Currently learning **Advanced frontend & exploring AI**  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🛍️ **Pastel Shop Website** – Modern e-commerce frontend  
+- 🌍 **Pak Trends Blog Website** – Minimalist blog on culture & lifestyle  
+- 💼 **Budget Tracker Website** – Professional portfolio with animations  
+
+🔗 Check out my repositories [here](https://github.com/Nayab-Naeem)
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/nayab-naeem-87a944378" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+</p>
+
+---
+
+⭐️ From [Nayab](https://github.com/Nayab-Naeem)
