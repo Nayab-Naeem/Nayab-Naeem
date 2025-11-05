@@ -41,7 +41,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/nayab-naeem-87a944378" target="_blank">
+  <a href="www.linkedin.com/in/
+nayabnaeemcs
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
