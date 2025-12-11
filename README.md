@@ -1,7 +1,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">👩‍💻 Hey, I'm Nayab</h1>
-<h3 align="center">A Passionate Computer Science Student | Aspiring Frontend Developer</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Code Girl Gif"/>
