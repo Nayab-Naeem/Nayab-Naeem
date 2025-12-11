@@ -44,11 +44,6 @@
   <a href="https://www.linkedin.com/in/nayabnaeemcs" target="_blank">LinkedIn Profile</a>
 </p>
 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-  
-</p>
-
 ---
 
 ⭐️ From [Nayab](https://github.com/Nayab-Naeem)
